@@ -1,4 +1,4 @@
-# AREST API SERVER for acronyms
+# A REST API SERVER for acronyms
 
 This is a basic REST API server for managing acronyms. It supports CRUD operations (Create, Read, Update, Delete) for acronyms using a MongoDB Atlas database.
 
